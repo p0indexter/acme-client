@@ -1,5 +1,3 @@
-module Acme; class Client; end; end
-
 require 'openssl'
 require 'faraday'
 require 'json'
