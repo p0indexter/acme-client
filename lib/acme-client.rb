@@ -1,3 +1,5 @@
+module Acme; class Client; end; end
+
 require 'faraday'
 require 'json'
 require 'json/jwt'
