@@ -1,5 +1,3 @@
-module Acme
-
 require 'faraday'
 require 'json'
 require 'json/jwt'
