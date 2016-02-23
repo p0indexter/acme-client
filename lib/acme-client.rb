@@ -1,10 +1,10 @@
 module Acme; class Client; end; end
 
-# require 'openssl'
+require 'openssl'
 require 'faraday'
 # require 'json'
 # require 'json/jwt'
-# require 'digest'
+require 'digest'
 require 'forwardable'
 
 require 'acme/client/certificate'
