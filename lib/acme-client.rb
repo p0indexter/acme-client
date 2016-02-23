@@ -1,4 +1,4 @@
-module Acme; class Client; end; end
+module Acme
 
 require 'faraday'
 require 'json'
