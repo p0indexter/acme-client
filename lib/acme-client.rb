@@ -1,3 +1,5 @@
+module Acme; class Client; end; end
+
 require 'acme/client/certificate'
 require 'acme/client/certificate_request'
 require 'acme/client/self_sign_certificate'
