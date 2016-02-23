@@ -1,10 +1,3 @@
-require 'openssl'
-require 'faraday'
-require 'json'
-require 'json/jwt'
-require 'digest'
-require 'forwardable'
-
 require 'acme/client/certificate'
 require 'acme/client/certificate_request'
 require 'acme/client/self_sign_certificate'
