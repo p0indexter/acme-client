@@ -1,7 +1,7 @@
 module Acme; class Client; end; end
 
 # require 'openssl'
-# require 'faraday'
+require 'faraday'
 # require 'json'
 # require 'json/jwt'
 # require 'digest'
